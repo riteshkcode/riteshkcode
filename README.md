@@ -11,9 +11,10 @@ i spend most of my time on:
 
 links:
 
-- linkedin — [your linkedin profile](www.linkedin.com/in/riteshk-bizz)
-- instagram — [ritesh explained](https://www.instagram.com/ritesh_builds/)
-- email — [get in touch](mailto:riteshkumarr.cse@gmail.com)
+- linkedin — www.linkedin.com/in/riteshk-bizz
+- instagram — https://www.instagram.com/ritesh_builds/
+- email — riteshkumarr.cse@gmail.com
+- twitter/x - https://x.com/riteshkbuilds
 
 > currently: working on growth at moonshot, exploring ai, and learning to build products people actually want.
 
